@@ -1,0 +1,117 @@
+body{
+	background-color: black;
+}
+.mav1{
+	color:white;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 50px;
+}
+#fav{
+	color: white;
+}
+#fav:hover{
+	color: #42f595;
+}
+#fav1{
+	color:white;
+
+}
+#fav1:hover{
+	color: yellow;
+}
+#fav2{
+	color: cyan;
+
+}
+#fav2:hover{
+	color: orange;
+}
+#fav4{
+	color: #e9e6eb;
+
+}
+#fav4:hover{
+	color: #c15bf5;
+
+}
+.hw{
+	color:white;
+	text-align: center;
+	font-family: Gill Sans Extrabold, sans-serif;
+	font-size: 40px;
+}
+.divb{
+	border-style: solid;
+
+	border-color: #cf0c0c;
+}
+.max2{
+	color:white;
+	font-size:17px;
+	font-family: Gill Sans Extrabold, sans-serif;
+}
+.max2:hover{
+	color:#fafae3;
+	font-size: 20px;
+}
+.video{
+	padding-left: 50px;
+	margin-left:  50px;
+	align-content: center;
+}
+.button{
+	background-color:#356bf2;
+    border: none;
+    color:white;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 22px;
+    text-align: center;
+    padding: 15px 32px;
+    margin: 4px 2px;
+    text-decoration: none;
+}
+.button:hover{
+	background-color: green;
+}
+.samsu{
+	border-style: solid;
+
+	border-color: #00ff77;
+}
+.names{
+	color: #5856D6;
+	font-size: 50px;
+	font-family: Gill Sans Extrabold, sans-serif;
+	text-align: center;
+}
+.y1{
+	color:#c484e4;
+}
+.sam1{
+	color:white;
+	font-size: 50px;
+	text-align: center;
+	font-family: Gill Sans Extrabold, sans-serif;
+
+}
+.sam1:hover{
+color:#c484e4;
+
+}
+/*nav.menu {
+	width: 300px;
+	min-height: calc(100vh - 121px);
+	background-color: #03a9f4;
+	position: absolute;
+	left: -300px;
+	transition: .3s all;
+}
+nav.menu > a {
+    display: block;
+    padding: 5px;
+    margin: 15px 0 0px 20px;
+    color: #494949;
+    text-transform: uppercase;
+}*/
